@@ -2,5 +2,9 @@
   "brnx-cinemasystem": {
     "version": "1.0.2",
     "changelog": ""
+  },
+  "bs-lib": {
+    "version": "1.0.0",
+    "changelog": ""
   }
 }
