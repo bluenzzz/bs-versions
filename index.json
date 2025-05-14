@@ -1,14 +1,11 @@
 {
   "brnx-cinemasystem": {
-    "version": "1.0.2",
-    "changelog": "[+] added new cinema\n[+] added option to have different screen in each cinema/room\n* it is necessary to change the config.lua, we include new configs"
+    "version": "1.0.2"
   },
   "brnx-iceorinksystem": {
-    "version": "1.0.0",
-    "changelog": ""
+    "version": "1.0.0"
   },
   "bs-lib": {
-    "version": "1.0.0",
-    "changelog": ""
+    "version": "1.0.0"
   }
 }
