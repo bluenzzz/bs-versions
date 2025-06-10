@@ -5,6 +5,9 @@
   "brnx-iceorinksystem": {
     "version": "1.0.5"
   },
+  "brnx-fiveboost": {
+    "version": "1.0.0"
+  },
   "bs-lib": {
     "version": "1.0.0"
   }
